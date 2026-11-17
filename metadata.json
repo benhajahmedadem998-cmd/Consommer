@@ -1,0 +1,6 @@
+{
+  "name": "TP 07 — API Vue.js & PHP",
+  "description": "Application interactive et code source complet du TP 07 : consommation d'API avec Fetch et Axios, backend PHP PDO et composants Vue.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
